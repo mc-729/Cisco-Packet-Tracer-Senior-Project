@@ -1,0 +1,7 @@
+Hello, and thank you for viewing my Github Repository for my New Jersey Institute of Technology Senior Project Cisco Packet Tracer. This project contains a small business network architecture that allows for expansion growth based on business needs, basic security, and a reliable network. 
+
+To view the Cisco Packet Tracer, first you must have a Cisco Netacad account and Cisco's packet tracer downloaded.
+
+Once an account is made and Cisco Packet Tracer is downloaded, please go back to my repository named "Cisco-Packet-Tracer-Senior-Project" by mc-729 and click the directory called "Packet-Tracer." Once inside the correct repository and directory, please click the file named "FinalProject-4-22-2023-Rev8 (1).pkt" and finally click "View Raw" to download the packet tracer file (.pkt file). 
+
+Once downloaded, open the packet tracer and it will ask you to login to your Cisco or Cisco Netacad account to view the project. Once logged in, you will be able to see the final version of the packet tracer that I worked with my team members.
